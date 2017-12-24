@@ -1,0 +1,49 @@
+# 5.1 Objectif recherché
+
+En tant que chef de projet ou chargé d'affaire vous devrais passer obligatoirement par la procédure ci-après :
+
+CF. Scheme
+
+La problèmatique sera de faire passer les zones de surcharge (hachuré) dans les zones de sous-charges (pointillé) et cela en jouant sur les marges par décalage des taches qui en possède.
+
+NB: On tombe alors sur une problèmatique où le nombre d'histogramme de charge généré devient trés important (Des dizaines de milliers minimum), les logiciels de Projet Management sont alors indispensable. Lorsqu'on les utilises. Il faut leurs donner des critères d'optimisations, il y en a 2
+
+- Le lissage (Smoothing)
+- Le nivelement (Leveling)
+
+# 5.2 Saisie des informations industrielles
+
+Remarque liminaire: L'unité de charge dans les projets est le mois hommes, cette unités est trés dangereuse. Elle représente un mythe et une réalité.
+La PJ 15 vous donne une représentation de ce phénomène. La PJ 16 quantifie ce phénomène.
+
+Nous allons pratiquer les opérations ci-avant sur un exemple concret, cf. PJ 13.
+La PJ n°17 vous donne le GANTT et l'histogramme de charges de cet exemple calé a gauche (au plus tôt). Avec une disponibilité d'un ingénieur ce projet est impraticable.
+
+En essayant de caler à droite (au plus tard) on obtient la PJ 18, un certain lssage est déjà observé.
+
+# 5.4 Les GANTT optimisé
+
+Parmis les 75k histogrammes possible de cet exemple, la PJ 19 vous donne un lissage à 3 ingénieurs.
+La PJ 21 vous donne un nivellement a 2.5 ingénieur. Le délai final du projet est retardé de deux semaine. 
+
+NB: la PJ numéro 20 vous donne le flowchart d'un logiciel de lissage de charge
+
+# 6 La prévision et la conduite des coûts
+
+
+# 6.1 Etablissement du prix de vente d'un projet
+CBLT : Coût budgété des lots de Travaux
+
+Il y a quasiment autant de formules de prix de vente qu'il y a d'entreprise, l'essentielles est de ne rien oublier. La PJ 23 vous donne un modèle efficace.
+
+# 6.2 : Le suivi des coûts par les 3 courbes en S
+
+La PJ 24 présente les courbes
+la PJ 25 donne le tracé
+la PJ 26 donne le mode d'emploi
+
+# 6.3 : Le suivi de la trésorerie et le calcul des frais financier
+
+La PJ 27 vous donne les 3 histogrammes de dépense d'un projet.
+La tabulation de la PJ 28 vous donne la trésorerie du projet et le calcul des frais financiers.
+
