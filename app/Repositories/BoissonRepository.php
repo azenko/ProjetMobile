@@ -8,7 +8,7 @@ use InfyOm\Generator\Common\BaseRepository;
 /**
  * Class BoissonRepository
  * @package App\Repositories
- * @version September 26, 2017, 11:24 am UTC
+ * @version December 27, 2017, 9:41 pm UTC
  *
  * @method Boisson findWithoutFail($id, $columns = ['*'])
  * @method Boisson find($id, $columns = ['*'])

@@ -8,7 +8,7 @@ use InfyOm\Generator\Common\BaseRepository;
 /**
  * Class SandwitchRepository
  * @package App\Repositories
- * @version September 26, 2017, 11:23 am UTC
+ * @version December 27, 2017, 9:42 pm UTC
  *
  * @method Sandwitch findWithoutFail($id, $columns = ['*'])
  * @method Sandwitch find($id, $columns = ['*'])

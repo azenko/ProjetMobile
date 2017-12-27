@@ -8,7 +8,7 @@ use InfyOm\Generator\Common\BaseRepository;
 /**
  * Class DessertRepository
  * @package App\Repositories
- * @version September 26, 2017, 11:25 am UTC
+ * @version December 27, 2017, 9:42 pm UTC
  *
  * @method Dessert findWithoutFail($id, $columns = ['*'])
  * @method Dessert find($id, $columns = ['*'])

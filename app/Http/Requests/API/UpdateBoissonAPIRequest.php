@@ -2,10 +2,10 @@
 
 namespace App\Http\Requests\API;
 
-use App\Models\Sandwitch;
+use App\Models\Boisson;
 use InfyOm\Generator\Request\APIRequest;
 
-class CreateSandwitchAPIRequest extends APIRequest
+class UpdateBoissonAPIRequest extends APIRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -24,6 +24,6 @@ class CreateSandwitchAPIRequest extends APIRequest
      */
     public function rules()
     {
-        return Sandwitch::$rules;
+        return Boisson::$rules;
     }
 }

@@ -3,8 +3,9 @@
 namespace App\Http\Requests\API;
 
 use App\Models\Sandwitch;
+use InfyOm\Generator\Request\APIRequest;
 
-class UpdateSandwitchAPIRequest extends MyAPIRequest
+class UpdateSandwitchAPIRequest extends APIRequest
 {
     /**
      * Determine if the user is authorized to make this request.

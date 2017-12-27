@@ -2,10 +2,10 @@
 
 namespace App\Http\Requests\API;
 
-use App\Models\Sandwitch;
+use App\Models\Dessert;
 use InfyOm\Generator\Request\APIRequest;
 
-class CreateSandwitchAPIRequest extends APIRequest
+class CreateDessertAPIRequest extends APIRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -24,6 +24,6 @@ class CreateSandwitchAPIRequest extends APIRequest
      */
     public function rules()
     {
-        return Sandwitch::$rules;
+        return Dessert::$rules;
     }
 }
