@@ -36,9 +36,9 @@ Route::get('/menu', function () {
 
   $menu = new stdClass();
   @$menu->generated = true;
-  @$menu->data->boisson = $boissons[0];
-  @$menu->data->sandwitch = $sandwitches[0];
-  @$menu->data->dessert = $desserts[0];
+  @$menu->data[0]->boisson = $boissons[0];
+  @$menu->data[0]->sandwitch = $sandwitches[0];
+  @$menu->data[0]->dessert = $desserts[0];
 
   return json_encode($menu);
 });
